@@ -8,14 +8,13 @@
 ### 1.1 Explain concepts related to the Open Systems Interconnection (OSI) reference model
 
 **OSI Model Layers**
-
-**Layer 1** – Physical: Bits, cables, signals, hubs
-**Layer 2** – Data Link: Frames, MAC addresses, switches
-**Layer 3** – Network: Packets, IP addressing, routers
-**Layer 4** – Transport: Segments, TCP/UDP
-**Layer 5** – Session: Session management
-**Layer 6** – Presentation: Data formatting, encryption
-**Layer 7** – Application: User-facing applications
+- **Layer 1** – Physical: Bits, cables, signals, hubs
+- **Layer 2** – Data Link: Frames, MAC addresses, switches
+- **Layer 3** – Network: Packets, IP addressing, routers
+- **Layer 4** – Transport: Segments, TCP/UDP
+- **Layer 5** – Session: Session management
+- **Layer 6** – Presentation: Data formatting, encryption
+- **Layer 7** – Application: User-facing applications
 
 **TCP/IP Model** (simplified version used in practice)
 - Application, Transport, Internet, Network Access
