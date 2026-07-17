@@ -43,6 +43,11 @@
 | /29  | 255.255.255.248   | 32      | 6            |
 | /30  | 255.255.255.252   | 64      | 2            |
 
+Quick Breakdown
+
+Total IPs = 2^(32 - CIDR)
+Usable Hosts = Total IPs - 2 (subtract network address & broadcast address)
+
 <!-- Domain 2 -->
 ## Domain 2.0 – Network Implementation (20%)
 
