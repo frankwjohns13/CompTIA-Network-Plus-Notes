@@ -29,6 +29,20 @@
 - Load Balancer — Distributes traffic
 - Proxy Server — Intermediary for requests
 
+### 1.3 IPv4 Addressing and Subnetting
+
+**IPv4 Subnetting Quick Reference**
+
+| CIDR | Subnet Mask       | Subnets | Usable Hosts |
+|------|-------------------|---------|--------------|
+| /24  | 255.255.255.0     | 1       | 254          |
+| /25  | 255.255.255.128   | 2       | 126          |
+| /26  | 255.255.255.192   | 4       | 62           |
+| /27  | 255.255.255.224   | 8       | 30           |
+| /28  | 255.255.255.240   | 16      | 14           |
+| /29  | 255.255.255.248   | 32      | 6            |
+| /30  | 255.255.255.252   | 64      | 2            |
+
 <!-- Domain 2 -->
 ## Domain 2.0 – Network Implementation (20%)
 
