@@ -31,6 +31,11 @@
 
 ### 1.3 IPv4 Addressing and Subnetting
 
+**Subnet Mask in Binary (Examples)**
+- /24 → 11111111.11111111.11111111.**00000000**
+- /25 → 11111111.11111111.11111111.**10000000**
+- /26 → 11111111.11111111.11111111.**11000000**
+  
 **IPv4 Subnetting Quick Reference**
 
 | CIDR | Subnet Mask       | Subnets | Usable Hosts |
@@ -44,10 +49,8 @@
 | /30  | 255.255.255.252   | 64      | 2            |
 
 **Quick Breakdown**
-
-**Total IPs** = 2^(32 - CIDR)
-
-**Usable Hosts** = Total IPs - 2 (subtract network address & broadcast address)
+  -**Total IPs** = 2^(32 - CIDR)
+  -**Usable Hosts** = Total IPs - 2 (subtract network address & broadcast address)
 
 <!-- Domain 2 -->
 ## Domain 2.0 – Network Implementation (20%)
