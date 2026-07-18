@@ -1,4 +1,4 @@
-![CompTIA A+ Badge](https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)
+![CompTIA Network+ Badge](https://images.credly.com/size/340x340/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)
 
 # <div style="text-align: center;">CompTIA Network+ (N10-009) Notes</div>
 
